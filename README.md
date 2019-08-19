@@ -1,5 +1,7 @@
 # s0meiyoshino v4.0 beta 5  
   
+# See: https://github.com/dora2-iOS/s0meiyoshino/releases  
+  
 ## Warning  
  his tool enables exploit of iBoot.  
  Therefore your device can be attacked from iBoot.  
